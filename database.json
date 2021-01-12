@@ -1,0 +1,9 @@
+{
+    "card-deck": {
+        "type": "github",
+        "owner": "papucicumuci",
+        "repo": "card-deck",
+        "desc": "A card deck",
+        "entry": "mod.js"
+    }
+}
